@@ -1,2 +1,4 @@
 added 1st text line
 added 2nd text line
+added 3d text line:
+	add text1
