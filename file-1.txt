@@ -1,4 +1,8 @@
 added 1st text line
 added 2nd text line
 added 3d text line:
+<<<<<<< HEAD
 	add text1 add number 1
+=======
+	add text2
+>>>>>>> 821e5946cdd49162b88fb1f4615f34aa5f7fa509
